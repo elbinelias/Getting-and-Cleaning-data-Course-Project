@@ -1,0 +1,1 @@
+## The goal is to prepare tidy data that can be used for later analysis. The data sets are appropriately labelled and combined to provide a tidy data set that can be used for further analysis
